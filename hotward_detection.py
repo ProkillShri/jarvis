@@ -40,7 +40,7 @@ while True:
 
     if 'wake up' in wake_up:
         speak("opening")
-        os.startfile(r'C:\Users\Priya\PycharmProjects\Assistant\jarvis.py')
+        os.startfile(r'Your jarvis file location')
         break
 
     else:
